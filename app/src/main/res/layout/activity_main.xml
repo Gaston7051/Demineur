@@ -10,7 +10,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="demieur.ghassenkhelif.demineur.MainActivity">
 
+<demieur.ghassenkhelif.demineur.views.grid.Grid
+    android:id="@+id/demineurGridView"
+    android:layout_centerHorizontal="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
 
+</demieur.ghassenkhelif.demineur.views.grid.Grid>
 
 
 </RelativeLayout>
